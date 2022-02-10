@@ -1,10 +1,2 @@
-Reply from 216.58.203.14, 29 bytes in 3.61ms
-Reply from 216.58.203.14, 29 bytes in 4.01ms
-Reply from 216.58.203.14, 29 bytes in 4.21ms
-Reply from 216.58.203.14, 29 bytes in 3.55ms
-Reply from 216.58.203.14, 29 bytes in 4.04ms
-Reply from 216.58.203.14, 29 bytes in 4.32ms
-Reply from 216.58.203.14, 29 bytes in 2.11ms
-Reply from 216.58.203.14, 29 bytes in 3.62ms
-Reply from 216.58.203.14, 29 bytes in 4.48ms
-Reply from 216.58.203.14, 29 bytes in 3.85ms
+Reply from 13.232.19.114, 29 bytes in 5.98ms
+Reply from 13.232.19.114, 29 bytes in 7.98ms

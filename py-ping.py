@@ -4,6 +4,8 @@ from pythonping import ping
 import numpy as np
 from rich.console import Console
 
+# https://stackoverflow.com/questions/21981796/cannot-ping-aws-ec2-instance
+
 
 def plot_latency_graph(latency_data, time_values):
     plt.style.use("seaborn")
